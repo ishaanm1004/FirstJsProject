@@ -1,2 +1,2 @@
 # FirstJsProject
-Js Project to kick start
+Js Project to kick start. Subway calculator
